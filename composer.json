@@ -13,13 +13,13 @@
         "php": ">=5.5,<7.2",
         "zibios/wrike-php-library": "v3.x-dev",
         "zibios/wrike-php-guzzle": "v3.x-dev",
-        "iv-eddy/wrike-php-jmsserializer": "master"
+        "ivinteractive/wrike-php-jmsserializer": "master"
         
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/iv-eddy/wrike-php-jmsserializer"
+            "url": "https://github.com/ivinteractive/wrike-php-jmsserializer"
         }
     ],
     "require-dev": {
