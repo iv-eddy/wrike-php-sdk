@@ -32,5 +32,4 @@
         "psr-4": { "Zibios\\WrikePhpSdk\\Tests\\": "tests/" }
     },
     "minimum-stability": "dev"
-    // "prefer-stable": true
 }
